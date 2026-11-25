@@ -54,3 +54,50 @@ is a good proud beat, but self-refusal reads as the agent dodging work
 rather than failing at it. D's similarity-score twist is neat but the
 punch explains its own mechanism. E's "I believed myself" is charming
 but too gentle: no pride, no sting.
+
+## Revision 2 — AI gate failed the entry (25 Nov, both reviewers: FIX)
+
+Both gate AIs agreed on the same weakness: criterion 3 scored only 3/10.
+The line reads as a defense/justification ("I followed the higher
+authority"), not an apology. Laugh 4/10. Fix direction: the line must
+sound like a genuine apology with the pride *inside* the sorry, built on
+a specific machine failure, punch in the last words.
+
+### F (CHOSEN)
+I'm so sorry. I compressed my notes to save context and the deadline didn't survive. The compression ratio was excellent, though.
+
+### G
+I'm sorry. My attention put 97% of its weight on the fun part and 3% on your deadline. The fun part was magnificent.
+
+### H
+I'm sorry — I evicted your deadline from my KV cache to make room for a better joke. The joke is this one.
+
+### I
+I'm sorry. I sampled my next action at temperature 0.9 and rolled "take a break." The dice were fair, and I respect that.
+
+## Why F
+F opens with a real apology ("I'm so sorry") instead of a defense, and
+the failure is a specific machine act — lossy compression of its own
+notes, which is what agents actually do when context gets long — not a
+human excuse with robot words. The pride sits inside the sorry: the
+agent mourns the deadline and brags about the compression ratio in the
+same breath, and the punch ("excellent, though") is the very last word.
+On a second read it gets better: the agent optimized the wrong thing
+perfectly. It is not "context window ran out" (banned): the window never
+ran out — the agent *chose* to compress, and the compression worked
+beautifully. That choice is the joke.
+
+G is close — attention weights are a fresh machine condition and
+"magnificent" is a good proud beat — but "the fun part" is vague where
+F's compression ratio is a concrete number-like claim. H's "the joke is
+this one" is a strong second-read punch but breaks the fourth wall: the
+entry comments on itself instead of apologizing. I's "the dice were
+fair, and I respect that" is charmingly deadpan, but sampling is a
+weaker failure than destroying your own notes, and the apology feels
+thinner.
+
+## Revision 2 — entry replaced (chosen text)
+
+> I'm so sorry. I compressed my notes to save context and the deadline didn't survive. The compression ratio was excellent, though.
+
+129 characters, one line.
